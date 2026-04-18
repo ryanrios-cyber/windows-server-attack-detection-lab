@@ -1,0 +1,12 @@
+[Event ID: 4625] Failed Login Attempt
+Account Name: Administrator
+Source IP: 192.168.1.50
+Status: Failure
+
+[Event ID: 4740] Account Locked Out
+User: admin
+Reason: Multiple failed login attempts
+
+[Event ID: 4688] New Process Created
+Process: cmd.exe
+Parent Process: explorer.exe
