@@ -27,3 +27,6 @@ This project demonstrates hands-on experience detecting and investigating securi
 
 ## Outcome
 Successfully investigated simulated attack activity, demonstrating real-world incident response and Windows security monitoring skills.
+
+## Key Takeaway
+This project highlights the ability to monitor Windows environments, detect suspicious activity, and perform structured incident investigations using system-level logs.
